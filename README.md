@@ -1,6 +1,6 @@
 Bitcoin Browser Wallet
 ======================
-Copyright by Fabian Vogelsteller [frozeman.de]
+Copyright by Tyrese [https://tyresejin.netlify.app]
 
 https://chrome.google.com/webstore/detail/bitcoin-browser-wallet/liopgbfpkngindhbgplllgjhfpcfnmig
 
@@ -52,7 +52,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Fabian Vogelsteller
+Copyright (c) 2018 Tyrese Jin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
